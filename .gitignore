@@ -1,0 +1,86 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono)
+mono_crash.*
+
+# User-specific files (Visual Studio Code)
+.vscode/
+
+# User-specific files (VSCode / Visual Studio Code)
+.vscode/*
+
+# Uncomment if you have tasks that create the following files
+# *.com
+# *.class
+# *.dll
+# *.exe
+# *.o
+# *.so
+# *.idb
+# *.pdb
+# *.pgc
+# *.pgd
+# *.rsp
+# *.sbr
+# *.tlb
+# *.tlh
+# *.tmp
+# *.tmp_proj
+# *.obj
+# *.iobj
+# *.ipdb
+# *.tlog
+# *.log
+# *.vspscc
+# *.vssscc
+# .builds
+
+# directories
+ipch/
+obj/
+bin/
+debug/
+release/
+_relay/
+# .vs/
+
+# Legacy directories
+_Debug/
+_Release/
+_Releases/
+# Backup & report files
+*~.ncb
+*.aps
+*.ilk
+*.mdf
+*.ldf
+*.sdf
+*.suo
+*.opensdf
+*.log
+*.vspscc
+*.vssscc
+
+# ClickOnce
+publish/
+
+# Python tools for Visual Studio (PTVS)
+__pycache__/
+
+# StyleCop
+StyleCopReport.xml
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+# End of https://www.toptal.com/developers/gitignore/api/visualstudio
+
+# Team Foundation Server
+tf/
+
+# Rider
+.idea/
+*.sln.iml
